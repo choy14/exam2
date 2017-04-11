@@ -2,7 +2,7 @@
 var gr = new jsGraphics(document.getElementById("canvas"));
 function circle(radius){
     this.radius = radius;
-  // area method
+
     this.area = function ()
     {
         return Math.PI * this.radius * this.radius;
