@@ -1,0 +1,19 @@
+header~div>h2, header~h2, header~div>h3, header~h3 {
+  background-color: #203a73;
+  color: #eeeeee;
+  padding: 10px;
+  border-radius:10px;
+  font-family: "Arial";
+}
+* {
+ font-size: 100%;
+ font-family: Arial;
+}
+.results {
+    border-style:dashed;
+    border-radius:10px;
+    top padding: 10px;
+    border-width: thin;
+    border-color top: black;
+    margin-top: 25px
+  }
